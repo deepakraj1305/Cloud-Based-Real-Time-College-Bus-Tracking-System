@@ -4,17 +4,6 @@
   <strong>A modern cloud-based platform for smart and efficient college transportation management.</strong>
 </p>
 
-<p align="center">
-
-
-</p>
-
----
-
-
-
----
-
 ## 📌 Project Overview
 
 The **Cloud-Based Smart College Bus Tracking and Management System** is a web-based transportation management platform designed to simplify and modernize college bus operations.
