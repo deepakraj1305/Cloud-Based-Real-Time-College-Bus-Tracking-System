@@ -6,19 +6,12 @@
 
 <p align="center">
 
-<a href="https://724uw5-iv4juh2vm-arcedawebapps1.vercel.app">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Website-success?style=for-the-badge" alt="Live Demo">
-</a>
 
 </p>
 
 ---
 
-## 🚀 Live Demo
 
-### 👉 [🌐 Open Live Demo](https://724uw5-iv4juh2vm-arcedawebapps1.vercel.app)
-
-Click the button above to access the deployed application directly in your browser.
 
 ---
 
